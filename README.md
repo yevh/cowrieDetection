@@ -1,2 +1,2 @@
 # cowrieDetection
-Detection of Cowrie Honeypot
+Script for the Cowrie Honeypot Detection.
